@@ -14,8 +14,7 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 
 ## Employment
 
-**[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
-
+**[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
 *Graduate Researcher* &nbsp; &nbsp; (Aug 2018 - Present)
 
 * Developed online clustering algorithms for real-time anomaly detection that runs in various offshore oil platforms;
@@ -24,8 +23,7 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 * wrote scientific papers and internal reports to help spread the research products.
 * Tech stack: Python, Numpy, Pandas, Matplotlib, MatLab, C++, Node-red, MQTT, OPC, GIT.
 
-**[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)
-
+**[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)  
 *Software Engineer (Back-end)* &nbsp; &nbsp; Jan 2018 - Nov 2018
 
 * Impacted thousands of people from more than **127 countries** through the [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) development teams;
@@ -40,22 +38,14 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 
 ## Education
 
-**[Universidade Federal de Minas Gerais](https://ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
-
-*PhD in Electrical Engineering* &nbsp; &nbsp; (Aug 2018 - Current)
-
-**Thesis**: New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models
-
+**[Universidade Federal de Minas Gerais](https://ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
+*PhD in Electrical Engineering* &nbsp; &nbsp; (Aug 2018 - Current)  
+**Thesis**: New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models  
 Supervisor: [Prof. Reinaldo Martinez Palhares](https://scholar.google.com/citations?user=iTQoWC0AAAAJ&hl=en&oi=ao)
 
-
-
-**[Universidade Estadual de Montes Claros](https://unimontes.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
-
-*B.Sc. in Systems Engineering* &nbsp; &nbsp; (Aug 2012 - Aug 2018)
-
-**Project**: New approaches for abrupt and incipient fault detection in dynamic systems
-
+**[Universidade Estadual de Montes Claros](https://unimontes.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
+*B.Sc. in Systems Engineering* &nbsp; &nbsp; (Aug 2012 - Aug 2018)  
+**Project**: New approaches for abrupt and incipient fault detection in dynamic systems  
 Supervisor: [Prof. Marcos Flávio Silveira Vasconcelos D'Angelo](https://scholar.google.com/citations?user=nZYzKLoAAAAJ&hl=en&oi=sra)
 
 ## Skills
@@ -72,3 +62,9 @@ Software Engineering        | Test driven development, scalable architecture des
 Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, DBSCAN), classification/regression (k-nn, decision trees, linear/logistic regression, random forests, SVMs), dimensionality reduction (PCA, autoencoders).
 
 \* If you consider MatLab to be a programming language.
+
+## Honors and Awards
+* *[2020]* Young Author Support granted by the International Federation of Automatic Control (IFAC) to attend to the 21st IFAC World Congress at Berlin. **(EUR 250,00)**
+* *[2018]* Graduate research scholarship from Brazilian oil and gas company Petrobras. **(BRL 80.000,00)**
+* *[2015]* Undergraduate study abroad scholarship from the Brazil Scientific Mobility Program (BSMP) to study electrical and computer engineering at the Ohio State University (OSU). **(USD 50.000,00)**
+* *[2014]* Undergraduate research scholarship from the Minas Gerais State Agency for Research and Development (FAPEMIG). **(BRL 4.800,00)**
