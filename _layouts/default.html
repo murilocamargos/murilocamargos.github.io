@@ -14,20 +14,21 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+      <header style="text-align: center;">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" width="240" />
         {% endif %}
 
-        <br /><p>{{ site.description | default: site.github.project_tagline }}</p>
+        <br /><p style="margin: 1em 0">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="/projects"><i class='fa fa-cog'></i> &nbsp; Projects</a></p>
-        <p class="view"><a href="/publications"><i class='fa fa-file-text-o'></i> &nbsp; Publications</a></p><br />
-
-        <p class="view"><a href="https://www.linkedin.com/in/murilocamargos/" target="_blank"><i class='fa fa-linkedin'></i> &nbsp; LinkedIn</a></p>
-        <p class="view"><a href="{{ site.github.owner_url }}"><i class='fa fa-github'></i> &nbsp; GitHub</a></p>
+        <div style="text-align: left;">
+          <p class="view"><a href="/projects.html"><i class='fa fa-cog'></i> &nbsp; Projects</a></p>
+          <p class="view"><a href="/publications.html"><i class='fa fa-file-text-o'></i> &nbsp; Publications</a></p>
+          <p class="view"><a href="https://www.linkedin.com/in/murilocamargos/" target="_blank"><i class='fa fa-linkedin'></i> &nbsp; LinkedIn</a></p>
+          <p class="view"><a href="{{ site.github.owner_url }}"><i class='fa fa-github'></i> &nbsp; GitHub</a></p>
+        </div>
       </header>
       <section>
 
