@@ -24,7 +24,7 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 * Tech stack: Python, Numpy, Pandas, Matplotlib, MatLab, C++, Node-red, MQTT, OPC, GIT.
 
 **[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)  
-*Software Engineer (Back-end)* &nbsp; &nbsp; Jan 2018 - Nov 2018
+*Software Engineer* &nbsp; &nbsp; (Jan 2018 - Nov 2018)
 
 * Impacted thousands of people from more than **127 countries** through the [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) development teams;
 * built RESTFull APIs with Python/Django and MySQL and PostgreSQL;
@@ -68,3 +68,7 @@ Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, D
 * *[2018]* Graduate research scholarship from Brazilian oil and gas company Petrobras. **(BRL 80.000,00)**
 * *[2015]* Undergraduate study abroad scholarship from the Brazil Scientific Mobility Program (BSMP) to study electrical and computer engineering at the Ohio State University (OSU). **(USD 50.000,00)**
 * *[2014]* Undergraduate research scholarship from the Minas Gerais State Agency for Research and Development (FAPEMIG). **(BRL 4.800,00)**
+
+## Volunteer Work
+* *[2020]* Part of the UFMG **COVID-19** task force to create **predictive models** for the disease spread in the city of Belo Horizonte, MG. [Special Cover](https://bit.ly/3cV0ket)
+* *[2020]* Wrote the **fuzzy logic** chapter in the "Jornada Data-Driven" book, written collaboratively with 50+ people. [Jornada Colaborativa](https://www.linkedin.com/company/jornadacolaborativa/)
