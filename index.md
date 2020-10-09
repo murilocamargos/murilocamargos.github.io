@@ -15,6 +15,7 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 ## Employment
 
 **[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
+
 *Graduate Researcher* &nbsp; &nbsp; (Aug 2018 - Present)
 
 * Developed online clustering algorithms for real-time anomaly detection that runs in various offshore oil platforms;
@@ -24,6 +25,7 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 * Tech stack: Python, Numpy, Pandas, Matplotlib, MatLab, C++, Node-red, MQTT, OPC, GIT.
 
 **[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)
+
 *Software Engineer (Back-end)* &nbsp; &nbsp; Jan 2018 - Nov 2018
 
 * Impacted thousands of people from more than **127 countries** through the [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) development teams;
@@ -39,13 +41,21 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 ## Education
 
 **[Universidade Federal de Minas Gerais](https://ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
+
 *PhD in Electrical Engineering* &nbsp; &nbsp; (Aug 2018 - Current)
+
 **Thesis**: New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models
+
 Supervisor: [Prof. Reinaldo Martinez Palhares](https://scholar.google.com/citations?user=iTQoWC0AAAAJ&hl=en&oi=ao)
 
+
+
 **[Universidade Estadual de Montes Claros](https://unimontes.br/)** &nbsp; &nbsp; (Minas Gerais, BR)
+
 *B.Sc. in Systems Engineering* &nbsp; &nbsp; (Aug 2012 - Aug 2018)
+
 **Project**: New approaches for abrupt and incipient fault detection in dynamic systems
+
 Supervisor: [Prof. Marcos Flávio Silveira Vasconcelos D'Angelo](https://scholar.google.com/citations?user=nZYzKLoAAAAJ&hl=en&oi=sra)
 
 ## Skills
