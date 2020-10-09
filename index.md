@@ -1,6 +1,6 @@
 ## About
 
-I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault diagnosis prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.S. in Systems Engineering.
+I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault diagnosis prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.S. in Systems Engineering. [[CV]](/pdf/CV.pdf)
 
 ## Carrer summary
 
@@ -50,14 +50,15 @@ Supervisor: [Prof. Marcos Flávio Silveira Vasconcelos D'Angelo](https://scholar
 
 ## Skills
 
-| Category                    | Proficiency in approximate descending order from left to right |
-| --------------------------- | -------------------------------------------------------------- |
-| Programming Languages       | Python, MatLab*, PHP, JavaScript, R, C++, C |
-| Web Technologies            | HTML, CSS/SCSS, Django, Django-rest-framework, Laravel, jQuery, Node.js, REACT, Angular  |
-| Databases/Storage           | PostgreSQL, MySQL, S3, Redis, Elasticsearch |
-| Data Analysis/Modeling      | pandas, numpy, scikit-learn, matplotlib, seaborn, scrapy |
-| Cloud                       | Docker, Travis (CI/CD), Heroku, AWS (EC2, ELB, ECS, RDS, S3) |
-| Productivity Tools          | LaTeX, git, Jupyter/IPython, JIRA |
-| Software Engineering        | Test driven development, scalable architecture design, code review, agile dev |
-| Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, DBSCAN), classification/regression (k-nn, decision trees, linear/logistic regression, random forests, SVMs), dimensionality reduction (PCA, autoencoders). |
+Category                    | Proficiency in approximate descending order from left to right
+--------------------------- | --------------------------------------------------------------
+Programming Languages       | Python, MatLab*, PHP, JavaScript, R, C++, C
+Web Technologies            | HTML, CSS/SCSS, Django, Django-rest-framework, Laravel, jQuery, Node.js, REACT, Angular 
+Databases/Storage           | PostgreSQL, MySQL, S3, Redis, Elasticsearch
+Data Analysis/Modeling      | pandas, numpy, scikit-learn, matplotlib, seaborn, scrapy
+Cloud                       | Docker, Travis (CI/CD), Heroku, AWS (EC2, ELB, ECS, RDS, S3)
+Productivity Tools          | LaTeX, git, Jupyter/IPython, JIRA
+Software Engineering        | Test driven development, scalable architecture design, code review, agile dev
+Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, DBSCAN), classification/regression (k-nn, decision trees, linear/logistic regression, random forests, SVMs), dimensionality reduction (PCA, autoencoders).
+
 \* If you consider MatLab to be a programming language.
