@@ -1,6 +1,6 @@
 ## About
 
-I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault diagnosis prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.S. in Systems Engineering. [[CV]](/pdf/CV.pdf)
+I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault diagnosis prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
 
 ## Carrer summary
 
@@ -17,24 +17,19 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 **[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
 *Graduate Researcher* &nbsp; &nbsp; (Aug 2018 - Present)
 
-* Developed online clustering algorithms for real-time anomaly detection that runs in various offshore oil platforms;
-* developed a python-based software to run real-time algorithms integrating multiple data sources;
-* represented the team at an invited talk given at the VIII Oil and Gas Production Optimization Workshop;
-* wrote scientific papers and internal reports to help spread the research products.
-* Tech stack: Python, Numpy, Pandas, Matplotlib, MATLAB, C++, Node-red, MQTT, OPC, GIT.
+* Developed a python-based **online clustering** algorithm using **fuzzy models** and **multivariate Gaussians**.
+* Devised a **distributed platform** to manage **real-time communications** using **MQTT**.
+* The real-time clustering algorithm allowed the **early anomaly detection** used for predictive maintenance.
+* **Tech stack**: Python, Numpy, Pandas, Seaborn, MATLAB, C++, Node-red, MQTT, GIT.
 
 **[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)  
 *Software Engineer* &nbsp; &nbsp; (Jan 2018 - Nov 2018)
 
-* Impacted thousands of people from more than **127 countries** through the [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) development teams;
-* built RESTFull APIs with Python/Django and MySQL and PostgreSQL;
-* used CI/CD on Amazon EC2 and Heroku machines with Circle CI and Travis;
-* used Amazon Elastic Container Service to serve app in docker clusters;
-* served applications with Amazon’s Elastic Container Service (ECS);
-* used Bonsai to provide on demand Elasticsearch for Heroku applications;
-* participated in daily meetings with silicon valley product owners;
-* won the most read blog post of the month with [Keeping data integrity with Django migrations](https://cheesecakelabs.com/blog/keeping-data-integrity-django-migrations/).
-* Tech stack: Python, Django, DRF, MySQL PostgreSQL, Docker, AWS (EC2, ELB, ECS, RDS, S3), Circle CI, Travis, Elasticsearch, Scrum, Agile.
+* Developed the python backend of **RESTFull APIs** with **CI/CD** for both **AWS** and **Heroku** clouds.
+* Impacted people from more than **127 countries** through [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) projects.
+* Helped the company to be featured as **Top #1** Mobile App Development Company by Clutch.
+* **Tech stack**: Python, Django, PostgreSQL, Docker, AWS (EC2, ELB, ECS, S3), Heroku, Travis, Scrum. 
+
 
 ## Education
 
@@ -69,4 +64,4 @@ Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, D
 
 ## Volunteer Work
 * *[2020]* Part of the UFMG **COVID-19** task force to create **predictive models** for the disease spread in the city of Belo Horizonte, MG. [Special Cover](https://bit.ly/3cV0ket)
-* *[2020]* Wrote the **fuzzy logic** chapter in the "Jornada Data-Driven" book, written collaboratively with 50+ people. [Jornada Colaborativa](https://www.linkedin.com/company/jornadacolaborativa/)
+* *[2020]* Wrote the **fuzzy logic** chapter in the "Jornada Data-Driven" book, written collaboratively with 50+ people (*In progress*). [Jornada Colaborativa](https://www.linkedin.com/company/jornadacolaborativa/)
