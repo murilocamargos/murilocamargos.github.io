@@ -14,16 +14,16 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 
 ## Employment
 
-**[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
-*Graduate Researcher* &nbsp; &nbsp; (Aug 2018 - Present)
+**[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
+*Graduate Researcher* <span style="float:right">Aug 2018 - Present</span>
 
 * Developed a python-based **online clustering** algorithm using **fuzzy models** and **multivariate Gaussians**.
 * Devised a **distributed platform** to manage **real-time communications** using **MQTT**.
 * The real-time clustering algorithm allowed the **early anomaly detection** used for predictive maintenance.
 * **Tech stack**: Python, Numpy, Pandas, Seaborn, MATLAB, C++, Node-red, MQTT, GIT.
 
-**[Cheesecake Labs](https://cheesecakelabs.com/)** &nbsp; &nbsp; (Santa Catarina, BR)  
-*Software Engineer* &nbsp; &nbsp; (Jan 2018 - Nov 2018)
+**[Cheesecake Labs](https://cheesecakelabs.com/)** <span style="float:right">Santa Catarina, BR</span>  
+*Software Engineer* <span style="float:right">Jan 2018 - Nov 2018</span>
 
 * Developed the python backend of **RESTFull APIs** with **CI/CD** for both **AWS** and **Heroku** clouds.
 * Impacted people from more than **127 countries** through [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) projects.
@@ -33,13 +33,13 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 
 ## Education
 
-**[Universidade Federal de Minas Gerais](https://ufmg.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
-*PhD in Electrical Engineering* &nbsp; &nbsp; (Aug 2018 - Current)  
+**[Universidade Federal de Minas Gerais](https://ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
+*PhD in Electrical Engineering* <span style="float:right">Aug 2018 - Current</span>  
 **Thesis**: New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models  
 Supervisor: [Prof. Reinaldo Martinez Palhares](https://scholar.google.com/citations?user=iTQoWC0AAAAJ&hl=en&oi=ao)
 
-**[Universidade Estadual de Montes Claros](https://unimontes.br/)** &nbsp; &nbsp; (Minas Gerais, BR)  
-*B.Sc. in Systems Engineering* &nbsp; &nbsp; (Aug 2012 - Aug 2018)  
+**[Universidade Estadual de Montes Claros](https://unimontes.br/)** <span style="float:right">Minas Gerais, BR</span>  
+*B.Sc. in Systems Engineering* <span style="float:right">Aug 2012 - Aug 2018</span>  
 **Project**: New approaches for abrupt and incipient fault detection in dynamic systems  
 Supervisor: [Prof. Marcos Flávio Silveira Vasconcelos D'Angelo](https://scholar.google.com/citations?user=nZYzKLoAAAAJ&hl=en&oi=sra)
 
