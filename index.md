@@ -1,6 +1,6 @@
 ## About
 
-I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault diagnosis prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
+I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault detection, diagnosis and prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
 
 ## Carrer summary
 
