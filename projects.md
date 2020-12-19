@@ -33,6 +33,7 @@ Tech: Python, regex. [[link]](https://github.com/murilocamargos/pytvname)
 
 
 ## Open Source Contributions
+* [**PYFTS/pyFTS**](https://github.com/PYFTS/pyFTS/pull/26) (Python): Added the dynamic subtractive clustering technique proposed by Chiu in 1994.
 * [**dleitee/strman**](https://github.com/dleitee/strman/pull/76) (JS): Fixed the optional parameters of a JS function that tested strings ending with some value.
 * [**keon/algorithms**](https://github.com/keon/algorithms/pull/252) (Python): Added the Tarjan's strongly connected components finder algorithm.
 * [**sagivo/algorithms**](https://github.com/sagivo/algorithms/pull/44) (Ruby): Added the Tarjan's strongly connected components finder algorithm.

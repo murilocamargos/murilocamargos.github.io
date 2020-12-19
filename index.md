@@ -1,10 +1,10 @@
 ## About
 
-I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Minas Gerais (UFMG) working with data-driven incremental learning techniques applied to fault detection, diagnosis and prognostics in dynamical systems. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
+I hold a Ph.D. in Electrical Engineering from the Federal University of Minas Gerais were I worked mainly on machine learning topics applied to dynamical systems fault diagnosis and prognostics. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
 
 ## Carrer summary
 
-* PhD candidate in Electrical Engineering UFMG, working on topics related to **fault prognostics** and developing tools to improve **fault detection and diagnostics** in the **industrial context** using probabilistic and AI models;
+* Working on topics related to **fault prognostics** and developing tools to improve **fault detection and diagnostics** in the **industrial context** using probabilistic and AI models;
 * **core competency** in data analytics, software engineering, real-time predictive algorithms, and incremental learning systems.
 * received **two scholarships** to study new learning mechanisms in AI for fault detection and diagnostics in electrical systems, with one of them to **study in the USA** for a year;
 * 8 **reviewed publications**, including 2 in a top-tier journal, 7 in national and international conferences/workshops, 2 under review and 2 in progress, **Young Author Support** awardee at IFAC'20;
@@ -34,8 +34,8 @@ I'm an Electrical Engineering Ph.D. Candidate at the Universidade Federal de Min
 ## Education
 
 **[Universidade Federal de Minas Gerais](https://ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
-*PhD in Electrical Engineering* <span style="float:right">Aug 2018 - Current</span>  
-**Thesis**: New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models  
+*PhD in Electrical Engineering* <span style="float:right">Aug 2018 - Dec 2020</span>  
+**Thesis**: [New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models](https://www.ppgee.ufmg.br/defesas/1770D.PDF)  
 Supervisor: [Prof. Reinaldo Martinez Palhares](https://scholar.google.com/citations?user=iTQoWC0AAAAJ&hl=en&oi=ao)
 
 **[Universidade Estadual de Montes Claros](https://unimontes.br/)** <span style="float:right">Minas Gerais, BR</span>  
