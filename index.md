@@ -1,10 +1,11 @@
 ## About
 
-I hold a Ph.D. in Electrical Engineering from the Federal University of Minas Gerais were I worked mainly on machine learning topics applied to dynamical systems fault diagnosis and prognostics. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
+I'm a Post-Doctoral Fellow at Fundação Getúlio Vargas (FGV EMAp) working with Data Science techniques to build evidence-based tools to analyze the Amazon rainforest deforestation and degradation. I hold a Ph.D. in Electrical Engineering from the Federal University of Minas Gerais were I worked mainly on machine learning topics applied to dynamical systems fault diagnosis and prognostics. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
 
 ## Carrer summary
 
-* Working on topics related to **fault prognostics** and developing tools to improve **fault detection and diagnostics** in the **industrial context** using probabilistic and AI models;
+* Working in the "Evidence-based Monitoring and Prediction for Sustainable Forest Management" project to build evidence-based tools to analyze the Amazon rainforest deforestation and degradation.
+* Worked on topics related to **fault prognostics** and developing tools to improve **fault detection and diagnostics** in the **industrial context** using probabilistic and AI models;
 * **core competency** in data analytics, software engineering, real-time predictive algorithms, and incremental learning systems.
 * received **two scholarships** to study new learning mechanisms in AI for fault detection and diagnostics in electrical systems, with one of them to **study in the USA** for a year;
 * 8 **reviewed publications**, including 2 in a top-tier journal, 7 in national and international conferences/workshops, 2 under review and 2 in progress, **Young Author Support** awardee at IFAC'20;
@@ -14,8 +15,12 @@ I hold a Ph.D. in Electrical Engineering from the Federal University of Minas Ge
 
 ## Employment
 
+**[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, BR</span>  
+*Data Scientist* <span style="float:right">Jan 2021 - Current</span>
+
+
 **[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
-*Graduate Researcher* <span style="float:right">Aug 2018 - Present</span>
+*Graduate Researcher* <span style="float:right">Aug 2018 - Dec 2020</span>
 
 * Developed a python-based **online clustering** algorithm using **fuzzy models** and **multivariate Gaussians**.
 * Devised a **distributed platform** to manage **real-time communications** using **MQTT**.
